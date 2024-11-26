@@ -7,9 +7,11 @@ This project implements the **Producer-Consumer problem** using a circular buffe
 
 ## How to Compile
 To compile the program, run the following command in the terminal:
+```bash
 gcc pro3.c -o pro3 -lpthread -lrt
 
 ## How to Run
 To execute the program, run:
+```bash
 ./pro3
 
